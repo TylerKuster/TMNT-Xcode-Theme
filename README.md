@@ -1,4 +1,4 @@
 TMNT-Xcode-Theme
 ================
 
-Based off 'Dusk' theme - Larger font &amp; Anonymous Pro instead of Menlo
+Based off 'Dusk' theme - **[Requires Anonymous Pro font](http://www.marksimonson.com/fonts/view/anonymous-pro)**
